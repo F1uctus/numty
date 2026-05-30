@@ -398,4 +398,5 @@
   eval("$" + m.pos().map(r => _p(r)).join(" ") + "$", scope: scope)
 }
 
+#import "linalg.typ": eig-vals, eig-vecs-sym, psd
 
