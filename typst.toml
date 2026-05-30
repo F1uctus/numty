@@ -9,3 +9,6 @@ exclude = ["test.typ"]
 repository = "https://github.com/F1uctus/numty"
 categories = ["utility","scripting"]
 keywords = ["matrix", "array", "matrices", "math", "numpy", "vector", "eigenvalue", "psd"]
+
+[dependencies]
+"@preview/peano" = { git = "https://github.com/F1uctus/peano_typ", ref = "master" }
