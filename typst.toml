@@ -1,6 +1,7 @@
 [package]
 name = "numty"
 version = "0.1.0"
+compiler = "0.15.0"
 entrypoint = "lib.typ"
 authors = ["Pablo Ruiz Cuevas"]
 license = "MIT"
